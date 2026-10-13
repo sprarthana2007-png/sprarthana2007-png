@@ -1,16 +1,28 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Prarthana 👋</h1>
+ <h3 align="center">ISE @ Oxford College of Engineering, Bengaluru</h3>
+ 
+ ---
+ 
+ ### 👩‍💻 About Me
+🎓 3rd semester - Information Science Engineering (AIML specialization) 
+🤖 Aspiring Agentic AI Engineer 
+💻 Currently focusing on Data Structures & Algorithms (DSA) and building foundational tech skills
+🔭 Currently exploring: LangGraph, Multi-agent systems, Open Source  
 
-<!--
-**sprarthana2007-png/sprarthana2007-png** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛠️ Skills
 
-Here are some ideas to get you started:
+* **AI & Machine Learning:**  Core Theory ( Intelligent Agents, Search Algorithms, Classical ML, Prompt                                                Engineering, AIoT)
+* **Core Topics:** Data Structures & Algorithms (DSA), Object-Oriented Programming (OOP)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-FF6B6B?style=for-the-badge&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+## Projects
+|🔍 **SIGNAL**| AI forensic trust-intelligence platform for detecting scams/fraud online *(Medo Hackathon)*
+## Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prarthana-s-6a6967386)
